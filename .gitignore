@@ -1,0 +1,13 @@
+.idea/
+node_modules/
+dist/
+logs/
+package-lock.json
+yarn-error.log
+yarn.lock
+.vscode
+/nbproject/*
+.npmrc
+coverage
+.nyc_output
+.vscode
