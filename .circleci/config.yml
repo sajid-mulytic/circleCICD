@@ -41,9 +41,6 @@ jobs:
 workflows:
   version: 2
   Example_Workflow:
-    branches:
-      only:
-        - master
     jobs:
       - Hello-World
       - I-Have-Code:
